@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 👨‍💻 All of my projects are available at [adarshraj.netlify.app](adarshraj.netlify.app)
+- 👨‍💻 All of my projects are available at [adarshraj.netlify.app](https://adarshraj.netlify.app)
 
 - 📫 How to reach me **rajadarshofficial@gmail.com**
 
